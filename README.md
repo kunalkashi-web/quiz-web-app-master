@@ -38,7 +38,7 @@ The application will be available at http://localhost:3000.
 
 1. First, clone the repository into your local machine.
    ```bash
-     git clone
+      git clone https://github.com/kunalkashi-web/quiz-web-app-master
    ```
 2. Change directory into the project folder:
    ```bash
