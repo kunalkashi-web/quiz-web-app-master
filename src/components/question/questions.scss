@@ -1,0 +1,13 @@
+.question-counter {
+  left: calc(50% - 60px);
+  top: -60px;
+}
+
+.question-content-wrapper{
+    -ms-overflow-style: none;  /* Internet Explorer 10+ */
+    scrollbar-width: none;  /* Firefox */
+    overflow-y: scroll;
+}
+.question-content-wrapper::-webkit-scrollbar{
+    display: none;  /* Safari and Chrome */
+}
