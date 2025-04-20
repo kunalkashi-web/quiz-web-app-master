@@ -2,6 +2,8 @@
 
 This project is a quiz application built with Next.js 14. It features a timer that tracks the time taken by a user to answer each question and resets for each new question. The app also stores the time spent on each question, allowing for analysis of quiz performance.
 
+#### [Live Preview](https://vercel.com/kunalkashis-projects/quiz-web-app-master)
+
 ## Technologies Used
 
 - Next.js: Framework for server-rendered React applications.
